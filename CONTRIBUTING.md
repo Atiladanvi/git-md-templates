@@ -1,4 +1,4 @@
-# Contribuir
+# Contribuindo
 
 As contribuições são **bem-vindas** e serão totalmente **creditadas**.
 
@@ -19,7 +19,7 @@ Respeite a decisão do mantenedor e não fique chateado se a sua PR for recusada
 
 ## Viabilidade
 
-Ao solicitar ou enviar novos recursos, primeiro considere se pode ser útil para outras pessoas.
+Ao solicitar ou enviar novos recursos, primeiro considere que seja útil para outras pessoas.
 Os projetos de código aberto são usados por muitos desenvolvedores, que podem ter necessidades totalmente diferentes das suas.
 Pense se seu recurso será usado por outros usuários.
 
@@ -28,7 +28,7 @@ Pense se seu recurso será usado por outros usuários.
 Antes de submeter uma mudança:
 
 - Tente verificar se realmente essa informação será colocada no lugar certo.
-- Verifique se a sugestão ainda não está presente no projeto.
+- Verifique se a sugestão está presente no projeto.
 - Tente seguir a regra culta do idioma ao qual a contribuição se refere.
 - Verifique a guia de PRs para garantir que a alteração ainda não esteja em andamento.
 
@@ -39,9 +39,9 @@ Antes de enviar uma PR:
 
 ## Requisitos
 
-Se o mantenedor do projeto tiver requisitos adicionais, você os encontrará listados aqui.
+Se os mantenedores do projeto tiver requisitos adicionais, você os encontrará listados aqui.
 
-- **Documente qualquer mudança de comportamento** - Verifique se o `README.md` e qualquer outra documentação relevante são mantidos atualizados.
+- **Documente qualquer mudança de comportamento** - Verifique se o `README.md` ou qualquer outra documentação relevante são mantidos atualizados.
 
 - **Uma solicitação de recebimento por recurso** - Se você quiser fazer mais de uma coisa, envie várias PR's.
 
