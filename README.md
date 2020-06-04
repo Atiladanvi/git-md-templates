@@ -23,7 +23,7 @@ Os templates estão organizados em pastas da seguinte forma:
 ``` <language>/<licenses>/```
 
 Exemplo: 
-[README-LARAVEL 5.6-7.0  => ` pt/readme/php/laravel/5.6-7.0.md`](pt/readme/php/laravel/5.6-7.0.md)
+[README-LARAVEL 5.6-7.0](pt/readme/php/laravel/5.6-7.0.md)
 
 ## Contribuindo
 Por favor leia [CONTRIBUINDO](CONTRIBUTING.md) para detalhes.
